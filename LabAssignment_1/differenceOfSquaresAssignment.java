@@ -1,3 +1,6 @@
+//Desc: To find difference of squarers
+//@author: Aswitha
+
 import java.lang.Math;
 class differenceOfSquaresAssignment {
 	int n=3, s1, s2, s=0,s22;

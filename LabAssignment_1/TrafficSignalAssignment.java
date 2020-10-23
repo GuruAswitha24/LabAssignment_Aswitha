@@ -1,6 +1,5 @@
 // Desc: Traffic light Simulation
-// @author: Pankajimport java.util.Scanner;
-
+// @author: Aswitha
 
 import java.util.Scanner;
 

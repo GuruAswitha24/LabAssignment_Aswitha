@@ -1,5 +1,5 @@
 //Desc: Fibonacci without Recursion
-//@author: Pankaj
+//@author: Aswitha
 
 import java.util.Scanner;
 

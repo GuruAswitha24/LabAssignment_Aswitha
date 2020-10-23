@@ -1,5 +1,5 @@
 //Desc: Fibonacci with recursion
-//@author: Pankaj
+//@author: Aswitha
 
 import java.util.Scanner;
 public class FibonacciAssignment {

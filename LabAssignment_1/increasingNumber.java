@@ -1,5 +1,5 @@
 //Desc: to check a given number is increasing
-//@author: Pankaj
+//@author: Aswitha
 
 class increasingNumber {
 	int n=134468;

@@ -1,5 +1,5 @@
 //Desc: The given number is power of 2
-//@author: Pankaj
+//@author: Aswitha
 
 class numberIsPowerOfTwo {
 	public static int checkNumber(int n) {

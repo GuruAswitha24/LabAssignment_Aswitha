@@ -1,6 +1,5 @@
 //Desc: To print all the prime numbers
-//@author: Pankaj
-
+//@author: Aswitha
 
 import java.util.Scanner;
 public class PrimeNumberAssignment {

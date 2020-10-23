@@ -1,5 +1,5 @@
 // Desc: Finding out sum of cubes of a number
-  //  @author: Pankaj
+  //  @author: Aswitha
 
 public class CubeSumAssignment {
     static int i,number,result=0;

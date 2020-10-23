@@ -1,3 +1,5 @@
+//Desc: To find sum of natural numbers
+//@author:Aswitha
 
 class sumOfNNaturalNumbers {
 	int n=3,i,sum=0;
